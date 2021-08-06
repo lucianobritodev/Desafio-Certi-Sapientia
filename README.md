@@ -1,4 +1,4 @@
-# Desafio Cert Sapienta
+# Desafio Certi Sapientia
 
 ## Descrição
 
