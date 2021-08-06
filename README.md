@@ -26,13 +26,14 @@ $ npm start
 ```
 Clique na url que aparecerá na tela do terminal ou cole-a no navegador.
 
-Para efetuar o teste de fato basta colocar logo após os parâmetros da url 'http://localhost:3000/[numero para teste]'
+Para efetuar o teste de fato basta colocar logo após os parâmetros da url "http://localhost:3000/\['numero para teste'\]"
 
 Exemplo com números positivos e negativos respectivamente:
 
 ```
 $ http://localhost:3000/94587
 ```
+ou
 
 ```
 $ http://localhost:3000/-1042
